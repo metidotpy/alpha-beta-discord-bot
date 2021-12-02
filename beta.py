@@ -616,6 +616,6 @@ Your Code Is:
         await asyncio.sleep(6)
 
 
-client.run("ODQ1MzgzMTc2MTA1MDk5MzQ0.YKgKbw.cFY8CvbN7LDQMLG6gu6ucF6-mqY")
+client.run("your token here")
 if exit():
     con.close()
