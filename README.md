@@ -43,26 +43,26 @@
 1. `feels` => if on sad bot => `Add your sad feels to database` , 
 if on happy bot `Add your happy feels to database`
 
-2.`time`, `much` => if on sad bot => `show your sad feels`, if on happy bot `show your happy feels`
+2. `time`, `much` => if on sad bot => `show your sad feels`, if on happy bot `show your happy feels`
 
 3. `clear` => `clear your feels`
 
 ## notes
-4. `note`, `notes`, `add-note` => `add your notes to database`
+1. `note`, `notes`, `add-note` => `add your notes to database`
 
-5.`show-note`, `see-note`, `find-note` => `add your notes to database`
+2. `show-note`, `see-note`, `find-note` => `add your notes to database`
 
-6. `delete-note`, `del-note` => `delete your notes from database`
+3. `delete-note`, `del-note` => `delete your notes from database`
 
 ## codes
-7. `code`, `codes`, `add-code` => `add your codes to database`
+1. `code`, `codes`, `add-code` => `add your codes to database`
 
-8.`show-code`, `see-code`, `find-code` => `add your codes to database`
+2. `show-code`, `see-code`, `find-code` => `add your codes to database`
 
-9. `delete-code`, `del-code` => `delete your codes from database`
+3. `delete-code`, `del-code` => `delete your codes from database`
 
 ## help
-10. `help` => `help command`
+1. `help` => `help command`
 
 ----
 ## i hope you enjoy that
